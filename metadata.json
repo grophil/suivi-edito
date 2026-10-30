@@ -1,0 +1,6 @@
+{
+  "name": "Mon Application",
+  "description": "Application web interactive développée avec Google AI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
